@@ -5,8 +5,8 @@
 
 ## 👥 Team Members
 
-| Member | Contributions |
-|--------|--------------|
+| Member |
+|--------|
 | **Abhi** |
 | **Aparna** | 
 | **Jia** |

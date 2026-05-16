@@ -216,6 +216,11 @@ jupyter>=1.0.0
 Thank You
 
 # Team Members Contribution
-| Member | Contribution |
-| --- | --- |
-| Jia | 
+| Member | Contribution | Register Number |
+| --- | --- | --- |
+| Jia | Step 1 : Problem Definition & Litrature Review , Stage 2: Data Collection & Data Understanding , Stage 3: Data Preprocessing & Cleaning , Stage 4: Exploratory Data Analysis (EDA) , Stage 10: Documentation (README) | 253116 |
+| Abhi | Stage 5: Feature Engineering & Selection , Stage 6: Model Building & Training , Stage 7: Model Evaluation & Comparison , Stage 10: Documentation (README, PPT) | 253226 |
+| Aparna V | Stage 8: Model Interpretation & Explainability , Stage 9: Deployment (Streamlit or equivalent) , Stage 10: Documentation (README, GitHub) | 253015 |
+
+
+

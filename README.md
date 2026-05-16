@@ -215,3 +215,7 @@ jupyter>=1.0.0
 
 Thank You
 
+# Team Members Contribution
+| Member | Contribution |
+| --- | --- |
+| Jia | 
